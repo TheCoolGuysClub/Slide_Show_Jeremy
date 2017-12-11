@@ -9,14 +9,14 @@ body{
   display:block;
 }
 .auto-slider{
-  outline:1px solid red;
+  outline:4px solid red;
   width:720px;
-  height:360px;
+  height:400px;
   
   overflow-x:hidden;
 }
 
-.auto-slider__content{
+.auto-slider-content{
   list-style:none;
   display:flex;
 /*   animation-name: slide;
@@ -53,5 +53,5 @@ body{
 
 img {
   width: 720px;
-  height: 360px;
+  height: 400px;
 }
